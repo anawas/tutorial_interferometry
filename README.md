@@ -3,8 +3,6 @@ Welcome to my collection of Jupyter notebooks and notes on the fascinating field
 
 Radio interferometry encompasses diverse concepts and techniques from different fileds, making it both captivating and challenging to grasp. In my experience as a student, I struggled to find a concise, educational explanation that introduced me to the subject from the point of view of a theoretical cosmologist.
 
-Here, I summarized the basic concept from notes and textbooks collected during my studies in a collection of Jupyter notebooks.
-
 # Contributions
 Contributions and feedback are highly encouraged! If you spot errors, have suggestions for improvement, or wish to contribute additional content, feel free to submit a pull request or open an issue.
 
